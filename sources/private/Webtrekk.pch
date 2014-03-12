@@ -1,0 +1,10 @@
+#ifdef __OBJC__
+#	import <AVFoundation/AVFoundation.h>
+#	import <CommonCrypto/CommonDigest.h>
+#	import <objc/runtime.h>
+#	import <Foundation/Foundation.h>
+#	import <MediaPlayer/MediaPlayer.h>
+#	import <UIKit/UIKit.h>
+
+#	import "WTGlobal.h"
+#endif
